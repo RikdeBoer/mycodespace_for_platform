@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "Executing personal .codespace_for_platform"
-
-alias python="python3"
-
